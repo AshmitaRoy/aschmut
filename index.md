@@ -29,7 +29,12 @@ Syntax highlighted code block
 - " 
 
 # HE PLAYS MULTIPLE ROLES 
-
+<picture>
+  <source srcset="img_smallflower.jpg" media="(max-width: 600px)">
+  <source srcset="img_flowers.jpg" media="(max-width: 1500px)">
+  <source srcset="flowers.jpg">
+  <img src="img_smallflower.jpg" alt="Flowers">
+</picture>
 
 ### Header 3
 
