@@ -2,7 +2,11 @@
 
 23 years ago this blob came into being a
 
-![Image](src)
+![BabyPhoto]()
+1.  Open the file containing the Linux mascot.
+2.  Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
 
 You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,20 +17,19 @@ Happy Birthday to
 ### Markdown
 
 
-# LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
+## LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
 
+- " If you increase distance enough you find people from Dhaka, I speak from experience " 
+- " Ooh with this toy doctor set I can play the role of your father "
+- " Ya I own you, you're basically my uterus "
 - " Of course I know PEEDIPIE I'm a LAWYER"
-- " Ki dinkal thakur "
-- " NO! "
 - " Listen. " * cue Aschmut panique *
-- " Neel ghumiye poro "
-- " Nyangto Yaksha Dul "
-- " No 🐱 for RJ Sayan "
-- " Ooh with this toy doctor set you can play my father's role "
-- " If you increase the distance enough you find people from Dhaka, I speak from experience " 
 - " I played with that man's monkey "
 - " She stole my dad's Tommy "
-- " Ya I own you, you're basically my uterus "
+- " No 🐱 for RJ Sayan "
+- " Nyangto Yaksha Dul "
+- " Neel ghumiye poro "
+- " Ki dinkal thakur "
 - " No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )*
 
 
@@ -55,14 +58,15 @@ Syntax highlighted code block
 
 ```
 
-###With lots of love from your Chikorita Babe.
+### With lots of love from your Chikorita Babe.
 
-From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you 
-to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
-to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
-to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
-to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
-I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
+- From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
+- to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
+- to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
+- to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
+- to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
+
+#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
