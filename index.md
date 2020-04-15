@@ -1,4 +1,4 @@
-## to Prithvi, with love.
+# to P, with love.
 
 ## Welcome to Prithviraj Choudhury's Birthday
 
@@ -14,11 +14,12 @@ You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/ma
 
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
+< span style="color: red;">
 ```markdown
-<span style="color: pink;"> Of course I HAD to add a sprinkling of STEM-my looking 
+<span style="color: gray;"> Of course I HAD to add a sprinkling of STEM-my looking 
 code that you'll excitedly exclaim 'I KNOW LINUX!" at : </span>
 
-< span style="color: red;"> NO, I don't know how to build holograms but one day,
+NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
 I hope with my 'AI Coding Skills I can make this for you. </span>
 
@@ -73,7 +74,7 @@ I hope with my 'AI Coding Skills I can make this for you. </span>
 ### Squishie maxx from Dank Tadpole to her Paul Pew Pew
 ![squish](squish.png)
 
-#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
+#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you more than 3000.
 
 Crossword [Crossword_Page?](https://guides.github.com/features/mastering-markdown/).
 
