@@ -29,28 +29,27 @@ He doesn't look a day over 21 but you can see the striking resemblance to Antoni
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
 ```markdown
-<span style="color: gray;"> Of course I HAD to add a
-  sprinkling of STEM-my looking 
-code that you'll excitedly exclaim 
-  'I KNOW LINUX!" at : </span>
+<span style="color: gray;">
+  Of course I HAD to add a
+  sprinkling of geeky looking 
+  code that you'll excitedly 
+  exclaim 'I KNOW LINUX!" at. : </span>
 
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
-I hope with my 'AI Coding Skills I can make this for you.
+I hope with my 'AI Coding Skills' I can make this for you.
 ```
 
-
+**Holographic menus and holograms representing (German?) dessert for your eatery.**
+*No hologram chok chok though hahahaha*
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
-
-![HologramWaiter](maxresdefault (1).jpg)
-![HologramCake](japensefuturecafe956hp.0.jpg)
 
 <div class="row">
   <div class="column">
-    <img src="maxresdefault (1).jpg" style="width:100%">
+    <img src="maxresdefault (1).jpg" style="width:50%">
   </div>
   <div class="column">
-    <img src="japensefuturecafe956hp.0.jpg" style="width:100%">
+    <img src="japensefuturecafe956hp.0.jpg" style="width:50%">
   </div>
 </div>
 
@@ -60,8 +59,10 @@ I hope with my 'AI Coding Skills I can make this for you.
 <img src="pikachu.jpeg" width="200" height="200" />
 ![Surprised Pikachu Face](pikachu.jpeg)
 
+<span style="color: salmon;"> 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
+- " I asked you to be pregnant, but you refused "
 - " Ya I own you, you're basically my uterus "
 - " Of course I know PEEDIPIE I'm a LAWYER"
 - " Listen. " * cue Aschmut panique *
@@ -71,8 +72,12 @@ I hope with my 'AI Coding Skills I can make this for you.
 - " Nyangto Yaksha Dul "
 - " Neel ghumiye poro "
 - " Ki dinkal thakur "
+- " You should Twi-harder "
+- " Doing the Dishes "
+- " Spaghetti "
 - " No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )*
 
+</span>
 
 ### THANK YOU FOR HAVING PLAYED MULTIPLE ROLES IN MY LIFE
 
@@ -86,6 +91,30 @@ I hope with my 'AI Coding Skills I can make this for you.
 - Booger picking
 - Beeg fight 
 - Random aunty taking a seeeep
+
+### IMPORTANT QUOTES / LIFE LESSONS FROM ASHMITA ROY TO PRAKTON SHAMI
+
+
+<span style="color: darksalmon;"> 
+- " NO!"
+- " Tor nei tor ____ o nei"
+- " Putting an r/ before any word doesn't make it Reddit"
+- " Shut up and take my money" 
+( and stop calling it black money, that's sexist)
+<img src="maxresdefault (1).jpg" style="width:50%">
+![money](money.png)
+
+- " Shut up and accept Ayush >>>> Coke Studio names "
+- " Shut up and learn to love potol"
+- " Imma dank tadpole "
+- " 
+</span>
+
+### NO CONTEXT INSIDE JOKES
+- Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu
+- Emni krli toh??
+- BaJ Tokapi Linux
+- After all these years? Olvez
 
 ## Old Mems
 **Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
