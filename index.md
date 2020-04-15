@@ -1,16 +1,21 @@
-## Welcome to Prithviraj Choudhury's 23rd Birthday
+## Welcome to Prithviraj Choudhury's Birthday
 
-23 years ago this blob came into being a
+23 years ago this blob came into being 
 
-![BabyPhoto](/baby (1).jpg)
+![BabyPhoto](baby (1).jpg)
 
 You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Happy Birthday to 
+```markdown
+Syntax highlighted code block
 
-### Markdown
+And NO, I don't know how to build holograms but one day for your SUPER POPULAR futuristic cafe, I hope if you need my help I might be able to make this for you.
+
+```
+
+![HologramWaiter](maxresdefault (1).jpg)
+![HologramCake](japensefuturecafe956hp.0.jpg)
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
@@ -29,11 +34,6 @@ Happy Birthday to
 - " No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )*
 
 
-```markdown
-Syntax highlighted code block
-
-```
-
 ### HE PLAYS MULTIPLE ROLES 
 
 ### Header 3
@@ -49,7 +49,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 
-### With lots of love from your Chikorita Babe.
+#### With lots of love from your Chikorita Babe.
 
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
@@ -57,7 +57,7 @@ Syntax highlighted code block
 - to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
 - to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
 
-#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
+##### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
