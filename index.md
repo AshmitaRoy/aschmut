@@ -4,20 +4,26 @@
 
 ![BabyPhoto](baby (1).jpg)
 
-**23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Just look at that infectious grin.**
+**23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches.**
 
 ![happy](happy.png)
 
-
+He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammal in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is a 
 
 
 **He might be a lil weird sometimes, but he's the best kind of weird.**
 
 ![weird](weird.png)
 
+### POEM 
+
+<span style="color: red;"> Blah testing text colour </span>
+- Blah
+- Blah
+- Blah
 
 
-### The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...
+**The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...**
 ![jawline](jawline.png)
 
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
@@ -32,7 +38,10 @@ I hope with my 'AI Coding Skills I can make this for you.
 ```
 
 
-![HologramWaiter](maxresdefault (1).jpg) {:height="36px" width="36px"} ![HologramCake](japensefuturecafe956hp.0.jpg) {:height="36px" width="36px"}
+<img src="maxresdefault (1).jpg" width="400" height="200" /> <img src="japensefuturecafe956hp.0.jpg" width="400" height="200" />
+
+![HologramWaiter](maxresdefault (1).jpg)
+![HologramCake](japensefuturecafe956hp.0.jpg)
 
 
 
@@ -60,18 +69,16 @@ I hope with my 'AI Coding Skills I can make this for you.
 
 ### Header 3
 
-
 `code text testing`
 [Link](url) and ![Image](src)
 
 ### The Ossu-Paul List
+- Booger picking
+- Beeg fight 
+- Random aunty taking a seeeep
 
-### I DO listen to all your repeated family stories, history and geography with great interest, proof:
-- 
-- 
 
-
-### Foetus Photos of Aschmut and her Preatvi
+**Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
 ![time](time.png)
 ![time](time2.png)
 
@@ -84,7 +91,7 @@ I hope with my 'AI Coding Skills I can make this for you.
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
 - to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
 - to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
-- to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
+- to my final evolution into a **CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe**
 
 
 ### Squishie maxx from Dank Tadpole to her Paul Pew Pew
