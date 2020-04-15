@@ -11,17 +11,19 @@ You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/ma
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
 ```markdown
-**Of course I HAD to add a sprinkling of STEM-my looking 
-code that you'll excitedly exclaim 'I KNOW LINUX!" at** : 
+<span style="color: pink;"> Of course I HAD to add a sprinkling of STEM-my looking 
+code that you'll excitedly exclaim 'I KNOW LINUX!" at : </span>
 
-*NO, I don't know how to build holograms but one day,
+< span style="color: red;"> NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
-I hope with my 'AI Coding Skills I can make this for you.*
+I hope with my 'AI Coding Skills I can make this for you. </span>
 
 ```
 
 ![HologramWaiter](maxresdefault (1).jpg)
 ![HologramCake](japensefuturecafe956hp.0.jpg)
+
+
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
@@ -44,8 +46,9 @@ I hope with my 'AI Coding Skills I can make this for you.*
 <img src="....jpg" width="200" height="200" />
 
 ### Header 3
-`code text testing`
 
+
+`code text testing`
 [Link](url) and ![Image](src)
 
 
