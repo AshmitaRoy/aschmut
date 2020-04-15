@@ -2,11 +2,7 @@
 
 23 years ago this blob came into being a
 
-![BabyPhoto]()
-1.  Open the file containing the Linux mascot.
-2.  Marvel at its beauty.
-
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+![BabyPhoto](/baby (1).jpg)
 
 You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,7 +13,7 @@ Happy Birthday to
 ### Markdown
 
 
-## LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
+### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
@@ -36,13 +32,9 @@ Happy Birthday to
 ```markdown
 Syntax highlighted code block
 
-# HE PLAYS MULTIPLE ROLES 
-<picture>
-  <source srcset="img_smallflower.jpg" media="(max-width: 600px)">
-  <source srcset="img_flowers.jpg" media="(max-width: 1500px)">
-  <source srcset="flowers.jpg">
-  <img src="img_smallflower.jpg" alt="Flowers">
-</picture>
+```
+
+### HE PLAYS MULTIPLE ROLES 
 
 ### Header 3
 
@@ -56,7 +48,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```
 
 ### With lots of love from your Chikorita Babe.
 
