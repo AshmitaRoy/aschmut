@@ -4,13 +4,15 @@
 
 ![BabyPhoto](baby (1).jpg)
 
-### 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Just look at that infectious grin.
+**23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Just look at that infectious grin.**
+
 ![happy](happy.png)
 
 
 
 
 **He might be a lil weird sometimes, but he's the best kind of weird.**
+
 ![weird](weird.png)
 
 
@@ -20,7 +22,6 @@
 
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
-< span style="color: red;">
 ```markdown
 <span style="color: gray;"> Of course I HAD to add a sprinkling of STEM-my looking 
 code that you'll excitedly exclaim 'I KNOW LINUX!" at : </span>
@@ -29,16 +30,15 @@ NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
 I hope with my 'AI Coding Skills I can make this for you.
 ```
-</span>
 
-![HologramWaiter](maxresdefault (1).jpg)
-![HologramCake](japensefuturecafe956hp.0.jpg)
 
+![HologramWaiter](maxresdefault (1).jpg) {:height="36px" width="36px"} ![HologramCake](japensefuturecafe956hp.0.jpg) {:height="36px" width="36px"}
 
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
 
+<img src="pikachu.jpeg" width="200" height="200" />
 ![Surprised Pikachu Face](pikachu.jpeg)
 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
@@ -56,13 +56,19 @@ I hope with my 'AI Coding Skills I can make this for you.
 
 
 ### THANK YOU FOR HAVING PLAYED MULTIPLE ROLES IN MY LIFE
-<img src="....jpg" width="200" height="200" />
+
 
 ### Header 3
 
 
 `code text testing`
 [Link](url) and ![Image](src)
+
+### The Ossu-Paul List
+
+### I DO listen to all your repeated family stories, history and geography with great interest, proof:
+- 
+- 
 
 
 ### Foetus Photos of Aschmut and her Preatvi
