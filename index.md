@@ -41,7 +41,8 @@ I hope with my 'AI Coding Skills' I can make this for you.
 ```
 
 **Holographic menus and holograms representing (German?) dessert for your eatery.**
-*No hologram chok chok though hahahaha*
+  *No hologram chok chok though hahahaha*
+
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 
 <div class="row">
@@ -59,8 +60,7 @@ I hope with my 'AI Coding Skills' I can make this for you.
 <img src="pikachu.jpeg" width="200" height="200" />
 ![Surprised Pikachu Face](pikachu.jpeg)
 
-<span style="color: salmon;"> 
-- " If you increase distance enough you find people from Dhaka, I speak from experience " 
+<span style="color: salmon;"> - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
 - " I asked you to be pregnant, but you refused "
 - " Ya I own you, you're basically my uterus "
@@ -101,7 +101,7 @@ I hope with my 'AI Coding Skills' I can make this for you.
 - " Putting an r/ before any word doesn't make it Reddit"
 - " Shut up and take my money" 
 ( and stop calling it black money, that's sexist)
-<img src="maxresdefault (1).jpg" style="width:50%">
+<img src="money.png" style="width:50%">
 ![money](money.png)
 
 - " Shut up and accept Ayush >>>> Coke Studio names "
