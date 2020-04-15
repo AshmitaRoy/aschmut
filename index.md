@@ -1,16 +1,22 @@
+## to Prithvi, with love.
+
 ## Welcome to Prithviraj Choudhury's Birthday
 
-23 years ago this blob came into being 
+###23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today
 
 ![BabyPhoto](baby (1).jpg)
 
 You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+**This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
 ```markdown
-Syntax highlighted code block
+**Of course I HAD to add a sprinkling of STEM-my looking 
+code that you'll excitedly exclaim 'I KNOW LINUX!" at** : 
 
-And NO, I don't know how to build holograms but one day for your SUPER POPULAR futuristic cafe, I hope if you need my help I might be able to make this for you.
+*NO, I don't know how to build holograms but one day,
+for your SUPER POPULAR futuristic cafe, if you need me ;
+I hope with my 'AI Coding Skills I can make this for you.*
 
 ```
 
@@ -34,22 +40,17 @@ And NO, I don't know how to build holograms but one day for your SUPER POPULAR f
 - " No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )*
 
 
-### HE PLAYS MULTIPLE ROLES 
+### THANK YOU FOR HAVING PLAYED MULTIPLE ROLES IN MY LIFE
+<img src="....jpg" width="200" height="200" />
 
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+`code text testing`
 
 [Link](url) and ![Image](src)
 
 
-#### With lots of love from your Chikorita Babe.
+#### With lots of love from your Chikorita Babe
+**(whose evolution in your life has been as follows)**
 
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
@@ -57,14 +58,9 @@ And NO, I don't know how to build holograms but one day for your SUPER POPULAR f
 - to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
 - to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
 
-##### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
+#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AshmitaRoy/aschmut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Crossword [Crossword_Page?](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
