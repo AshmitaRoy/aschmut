@@ -2,9 +2,13 @@
 
 ## Welcome to Prithviraj Choudhury's Birthday
 
-###23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today
-
 ![BabyPhoto](baby (1).jpg)
+
+### 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Just look at that infectious grin.
+![happy](happy.png)
+
+**He might be a lil weird sometimes, but he's the best kind of weird.**
+![weird](weird.png)
 
 You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -52,14 +56,22 @@ I hope with my 'AI Coding Skills I can make this for you. </span>
 [Link](url) and ![Image](src)
 
 
+### Foetus Photos of Aschmut and her Preatvi
+![time](time.png)
+
 #### With lots of love from your Chikorita Babe
-**(whose evolution in your life has been as follows)**
+**(whose evolution in your life has been as follows)** 
+
 
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
 - to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
 - to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
 - to my final evolution into a **"CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe"
+
+
+### Squishie maxx from Dank Tadpole to her Paul Pew Pew
+![squish](squish.png)
 
 #### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you.
 
