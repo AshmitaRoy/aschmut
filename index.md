@@ -29,8 +29,10 @@ He doesn't look a day over 21 but you can see the striking resemblance to Antoni
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
 ```markdown
-<span style="color: gray;"> Of course I HAD to add a sprinkling of STEM-my looking 
-code that you'll excitedly exclaim 'I KNOW LINUX!" at : </span>
+<span style="color: gray;"> Of course I HAD to add a
+  sprinkling of STEM-my looking 
+code that you'll excitedly exclaim 
+  'I KNOW LINUX!" at : </span>
 
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
@@ -38,11 +40,19 @@ I hope with my 'AI Coding Skills I can make this for you.
 ```
 
 
-<img src="maxresdefault (1).jpg" width="400" height="200" /> <img src="japensefuturecafe956hp.0.jpg" width="400" height="200" />
+<img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 
 ![HologramWaiter](maxresdefault (1).jpg)
 ![HologramCake](japensefuturecafe956hp.0.jpg)
 
+<div class="row">
+  <div class="column">
+    <img src="maxresdefault (1).jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="japensefuturecafe956hp.0.jpg" style="width:100%">
+  </div>
+</div>
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
@@ -77,7 +87,7 @@ I hope with my 'AI Coding Skills I can make this for you.
 - Beeg fight 
 - Random aunty taking a seeeep
 
-
+## Old Mems
 **Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
 ![time](time.png)
 ![time](time2.png)
