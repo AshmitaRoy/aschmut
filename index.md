@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Happy Birthday to 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +13,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# LIFE-CHANGING NO-CONTEXT QUOTES
+- " Of course I know PEEDIPIE I'm a LAWYER"
+- " Ki dinkal thakur "
+- " NO! "
+- " Listen. " * cue Aschmut panique *
+- " Neel ghumiye poro "
+- " Ya I own you, you're basically my uterus "
+- " Nyangto Yaksha Dul "
+- " No 🐱 for RJ Sayan "
+- " Ooh with this toy doctor set you can play my father's role "
+- " If you increase the distance enough you find people from Dhaka, I speak from experience " 
+- " I played with that man's monkey "
+- " She stole my dad's Tommy "
+- " 
+
+# HE PLAYS MULTIPLE ROLES 
+
+
 ### Header 3
 
 - Bulleted
