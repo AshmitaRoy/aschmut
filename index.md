@@ -7,10 +7,16 @@
 ### 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Just look at that infectious grin.
 ![happy](happy.png)
 
+
+
+
 **He might be a lil weird sometimes, but he's the best kind of weird.**
 ![weird](weird.png)
 
-You can use the [editor on GitHub](https://github.com/AshmitaRoy/aschmut/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+### The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...
+![jawline](jawline.png)
 
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 
@@ -21,9 +27,9 @@ code that you'll excitedly exclaim 'I KNOW LINUX!" at : </span>
 
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
-I hope with my 'AI Coding Skills I can make this for you. </span>
-
+I hope with my 'AI Coding Skills I can make this for you.
 ```
+</span>
 
 ![HologramWaiter](maxresdefault (1).jpg)
 ![HologramCake](japensefuturecafe956hp.0.jpg)
@@ -32,6 +38,8 @@ I hope with my 'AI Coding Skills I can make this for you. </span>
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
+
+![Surprised Pikachu Face](pikachu.jpeg)
 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
@@ -59,6 +67,8 @@ I hope with my 'AI Coding Skills I can make this for you. </span>
 
 ### Foetus Photos of Aschmut and her Preatvi
 ![time](time.png)
+![time](time2.png)
+
 
 #### With lots of love from your Chikorita Babe
 **(whose evolution in your life has been as follows)** 
