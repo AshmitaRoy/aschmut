@@ -72,9 +72,7 @@ div.mint { background-color:BLANCHEDALMOND; }
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
- </b>
-</ul> 
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
 The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls goes to...**
 <br>
