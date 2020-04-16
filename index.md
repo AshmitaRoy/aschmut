@@ -4,12 +4,12 @@
 ## Welcome to Prithviraj Choudhury's Birthday
 
 ![BabyPhoto](baby (1).jpg)
-
-<span style="color: SEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin </b> </span>
+<br> 
+<span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin </b> </span>
 
 ![happy](happy.png)
 
-<span style="color: MEDIUMBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
+<span style="color: STEELBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
 
 <br><br>
 
@@ -18,14 +18,6 @@
 ![worldart](world.png)
 
 <br><br>
-
-### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
-- 0bah
-- sjndd
-- ddjvkvfd
-- dbsdjdcskkjkj
-- dndcisjkowvr
-- yhopkpteprp
 
 **He might be a lil weird sometimes (pix below), but he's the best kind of weird.**
 <br>
@@ -41,16 +33,13 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-**If you checked yourself out anymore, Target would be using you as a payment option. The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
+**If you checked yourself out anymore, Target would buy you. The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
 <br>
 ![jawline](jawline.png)
 
 <br><br><br>
 
 <p style="background-color:LIGHTCORAL"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
-           
-<br>
-
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -78,7 +67,6 @@ I hope with my 'AI Coding Skills' I can make some for you.
 **These quotes might seem like there's been some Masaledar Paraphrasing, but NO.**
 
 ![Surprised Pikachu Face](pikachu.jpeg)
-<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
 <br> 
 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
@@ -176,31 +164,27 @@ I hope with my 'AI Coding Skills' I can make some for you.
 ![time](time2.png)
 <br><br>
 
-<h3 style="background-color:GOLD"> 2019 Letter </h3> 
-<span style="background-color: PAPAYAWHIP;"> SO many people have asked me Why and HOW I’m friends with you after all these years. 
-In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. </span>
-
-**PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.**
+<h3 style="background-color:GOLD">  2019 Letter </h3> 
+<span style="background-color: PAPAYAWHIP;"> So many people have asked me Why and HOW I’m friends with you after all these years. 
+In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </span>
 <br>
-
-###### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
+### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
 #### I love you, more than 3000.
 ## All my best, Aschmut.
 
-### Lots of squishy hugs maxx from bete Dank Tadpole to her Paul Pew Pew
+
+<h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
 
 <br><br><br>
 
-
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
-<h3 style="background-color:HOTPINK"> Instagram or it(unnecessarily reporting for sexual harassment) didn't happen. (  </h3> 
+<h4 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h4> 
 
 - **Instagram Clout for Proximity Crush : ** 
->> [prithvi2804's Instagram Aesthetic](https://www.instagram.com/prithvi2804/)
+>> [prithvi2804's IG Aesthetic](https://www.instagram.com/prithvi2804/)
 - **Instagram Clout for Creator of this Webpage at :** 
->> [ashmitaroyal's Cuter Instagram Aesthetic](https://www.instagram.com/ashmitaroyal/)
-
+>> [ashmitaroyal's Cuter IG Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
 <br> <br> <br>
 
