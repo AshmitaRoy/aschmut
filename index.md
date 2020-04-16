@@ -16,8 +16,11 @@
 
 <style>
 div.blue pre { background-color:STEELBLUE; }
-div.blue pre.r { background-color:LIGHTSEAGREEN; }
+div.blue { background-color:LIGHTSEAGREEN; }
 </style>
+
+<h3 style="background-color:LIGHTSEAGREEN;"> <span style="color: DEEPSLATEBLUE;"> What is Prithvi? WHo is Prithvi? Why is Prithvi </span> </h3>
+<br>
 
 <div class = "blue">
  <h3> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
