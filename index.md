@@ -1,18 +1,8 @@
  
-# to P, with love on his 23rd.
 
-## Welcome to Prithviraj Choudhury's Birthday
-
-![BabyPhoto](baby (1).jpg)
-
-<span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
-
-![happy](happy.png)
-
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammal in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is a 
- </b> </span>
-
-<br><br>
+<style>
+div.mint { background-color:MINTCREAM; }
+</style>
 
 <style>
 div.lsgreen { background-color:LIGHTSEAGREEN; }
@@ -30,11 +20,33 @@ div.cyan { background-color:LIGHTCYAN; }
 div.blue { background-color:SKYBLUE; }
 </style>
 
-<h3 style="background-color:LIGHTSEAGREEN; color:DEEPSLATEBLUE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3>
+# to P, with love on his 23rd.
+
+## Welcome to Prithviraj Choudhury's Birthday
+
+![BabyPhoto](baby (1).jpg)
+
+<div class = "mint">
+<span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
+</div>
+
+![happy](happy.png)
+
+<div class = "mint">
+ <span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al 
+ </b> </span>
+</div>
+
+<br><br>
+
+<h3 style="background-color:LIGHTSEAGREEN,color:DEEPSLATEBLUE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
 
 <div class = "palegreen">
- <h3 style="color:DEEPSLATEBLUE"> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
+ <h3 style="color:DEEPSLATEBLUE;"> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
+</div>
+
+<div class = "palegreen">
 </div>
 
 ![worldart](world.png)
@@ -43,62 +55,79 @@ div.blue { background-color:SKYBLUE; }
 
 ### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
 
-<ul style="list-style-type:none;"> <b>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<ol> <b>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
  </b>
-</ul> 
+</ol> 
 
-<span style="color: MEDIUMSEAGREEN;"> <b> He might be a lil weird sometimes, but he's the best kind of weird. </b> </span>
-<br>
+**He might be a lil weird sometimes, but he's the best kind of weird.**
+<br><br>
 ![weird](weird.png)
  
 <br><br><br>
 
-### POEM 
+<h3 style="background-color:AQUA,color:DEEPSLATEBLUE"> POEM ( not sanitiser poetry thankfully ) </h3> 
+<br> 
 
 <ul style="list-style-type:none;"> <b>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
  </b>
 </ul> 
 
-**The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...**
+The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls goes to...**
 <br>
 ![jawline](jawline.png)
 
 <br><br><br>
-**This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
-`
-`
+
+<font face="verdana" color="white">
+ <p style="background-color:RED>
+           <b>
+           This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.
+           </b>
+ </p>
+ </font>
+           
+<br>
+
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -106,20 +135,25 @@ div.blue { background-color:SKYBLUE; }
   code that you'll excitedly 
   exclaim 'I KNOW LINUX!" at. : </span>
 
+<br>
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
 I hope with my 'AI Coding Skills' I can make this for you.
 ```
 
 **Holographic menus and holograms representing (German?) dessert for your eatery.**
-  *No hologram chok chok though hahahaha*
+<br>
+*No hologram chok chok because mass lobotomies are exp and black money is limited*
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 <br><br> <br>
 
 
-### LIFE-CHANGING NO-CONTEXT QUOTES BY PC
-**These quote might seem like they've been subjected to Masaledar Paraphrasing, but NO "
+<div class = "palegreen">
+ <h4> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h4>
+</div>
+
+**These quotes might seem like they've been subjected to Masaledar Paraphrasing, but NO.**
 
 <img src="pikachu.jpeg" width="400" height="150" />
 ![Surprised Pikachu Face](pikachu.jpeg)
