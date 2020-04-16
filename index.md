@@ -9,23 +9,23 @@
 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al 
- </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
 
 <br><br>
 
 <h3 style="background-color:LIGHTSEAGREEN"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
-
-
 ![worldart](world.png)
 
 <br><br>
 
 ### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
--0bah
--sjndd
--ddjvkvfd
+- 0bah
+- sjndd
+- ddjvkvfd
+- dbsdjdcskkjkj
+- dndcisjkowvr
+- yhopkpteprp
 
 **He might be a lil weird sometimes, but he's the best kind of weird.**
 <br><br>
