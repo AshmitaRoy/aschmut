@@ -174,37 +174,37 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - to my final evolution into a **CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe**
 
 ![time](time2.png)
+<br><br>
+
+<h3 style="background-color:GOLD"> 2019 Letter </h3> 
+<span style="background-color: PAPAYAWHIP;"> SO many people have asked me Why and HOW I’m friends with you after all these years. 
+In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. </span>
+
+**PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.**
+<br>
+
+###### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
+#### I love you, more than 3000.
+## All my best, Aschmut.
 
 ### Lots of squishy hugs maxx from bete Dank Tadpole to her Paul Pew Pew
 ![squish](squish.png)
-
-#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
-## I love you, more than 3000.
-# All my best, Aschmut.
 
 <br><br><br>
 
 
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
+<h3 style="background-color:HOTPINK"> Instagram or it(unnecessarily reporting for sexual harassment) didn't happen. (  </h3> 
 
-<h3 style="background-color:DEEPPINK"> Shameless Instagram Promotion  </h3> 
 - **Instagram Clout for Proximity Crush : ** 
 >> [prithvi2804's Instagram Aesthetic](https://www.instagram.com/prithvi2804/)
 - **Instagram Clout for Creator of this Webpage at :** 
 >> [ashmitaroyal's Cuter Instagram Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
-<br>
-
-<h3 style="background-color:"> Shameless Facebook Promotion  </h3> 
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[2]: http://www.facebook.com/ashmitar/
-
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[2]: http://www.facebook.com/prithviraj.choudhury.96/
 
 <br> <br> <br>
 
-### Support or Contact
+<h3 style="background-color:YELLOWGREEN"> Support or Contact </h3> 
 Having trouble viewing this webpage? 
 Check out the [documentation](https://help.github.com/categories/github-pages-basics/) or email me at
 <a href="mailto:ashmitaroye@icloud.com">ashmitaroye@icloud.com</a> and I’ll help sort it out.
