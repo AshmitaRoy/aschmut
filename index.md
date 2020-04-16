@@ -20,31 +20,27 @@
 **He might be a lil weird sometimes (pix below), but he's the best kind of weird.**
 <br>
 ![weird](weird.png)
- 
-<br><br><br>
+<br>
 
 <h3 style="background-color:LIGHTGREEN"> POEM ( not sanitiser poetry thankfully ) </h3> 
 
 <ul style="list-style-type:none;"> <b>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span> 
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> 
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> 
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> 
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
 **If you checked yourself out anymore, Target would buy you. 
 The award for the MOST number of not-subtle jawline flexes during selfies,
 photographs, video calls and even while passing by anything remotely reflective goes to...**
-<br><br>
-
 ![jawline](jawline.png)
-
 <br>
 
-<p style="background-color:LIGHTCORAL"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
+<p style="background-color:CORAL"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -62,15 +58,15 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 **Holographic menus and holograms representing (German?) dessert for your eatery.**
 <br>
-*No hologram chok chok because mass lobotomies are exp 
-and black money will be limited in our 4 jon er shongshaar* 
+*No hologram chok chok because mass lobotomies are exp*
+*and black money will be limited in our 4 jon er shongshaar* 
 <br>
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 <br><br> <br>
 
 <h3 style="background-color:YELLOW"> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
-**These quotes might seem like there's been some Masaledar Paraphrasing, but NO.**
+>>These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 
 ![Surprised Pikachu Face](pikachu.jpeg)
 <br> 
@@ -84,7 +80,8 @@ and black money will be limited in our 4 jon er shongshaar*
 - " Of course I know PEEDIPIE I'm a LAWYER "
 - " AshmitaRoyal and the Gobet of Desire "
 - " I played with that man's monkey "
-- " Listen. " ***cue Aschmut panique***
+- " Listen. " * *cue Aschmut panique* *
+- " You're a bad brother, a piglet. "
 - " She stole my dad's Tommy "
 - " You should Twi-harder "
 - " No 🐱 for RJ Sayan "
@@ -97,7 +94,7 @@ and black money will be limited in our 4 jon er shongshaar*
 - " Whats BDE "
 - <span style="color: CRIMSON;"> <b> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </b> </span>
 
-
+<br>
 <h3 style="background-color:CHARTREUSE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
 **"Everyone is everyone's everything"**
 - LIST WITH PIX
@@ -112,7 +109,8 @@ and black money will be limited in our 4 jon er shongshaar*
 - Numbered list
 - or can mkae a collage and upload, easier
 
-<h3 style="background-color:TURQUOISE"> IMPORTANT QUOTES / LIFE LESSONS FROM DANK TADPOLE  </h3> 
+<br>
+<h3 style="background-color:TURQUOISE"> IMPORTANT QUOTES & LIFE LESSONS FROM DANK TADPOLE  </h3> 
 - " NO! "
 - " Oh fuck "
 - " Shubho Bijoya "
@@ -121,34 +119,23 @@ and black money will be limited in our 4 jon er shongshaar*
 ( and stop calling it black money, that's sexist)
 ![money](money.png)
 
+- " Shut up and learn to love potol"
 - " Shut up and accept Ayush > Coke Studio names "
-- " Shut up and learn to love potol"
 - " Shut up and stop risking your bous for dumb pranks "
 - " Putting an r/ before any word doesn't make it Reddit"
-- " Shut up and learn to love potol"
-- " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit"
-- " Shut up and learn to love potol"
-- " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit"
-- " Shut up and learn to love potol"
-- " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit"
-- " Shut up and learn to love potol"
-- " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit"
+- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu "
+- 
+- " **I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.** "
 
 
 </span>
 
-### NO CONTEXT INSIDE JOKES / CROSSWORD??
+### CROSSWORD??
+<div style="margin:auto; display:flex; flex-direction:column; height:500px; max-width:500px">
+    <iframe border="0" src="https://crosswordlabs.com/embed/for-prithvi" style="flex:1; width:100%; padding:5px 0px 0 5px; border:3px solid black; "></iframe>
+    <a target="_blank" style="align-self:center; font-size:12px; color:black; padding-top:10px; text-decoration:none;text-align:center" href="https://crosswordlabs.com">Crossword Puzzle Maker</a>
+</div>
 
-- Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu
-- Raja-r Disha
-- Nengti Eeedur
-- Emni krli toh??
-- BaJ Tokapi Linux
-- After all these years? Olvez
 
 <br><br>
 
@@ -174,7 +161,7 @@ and black money will be limited in our 4 jon er shongshaar*
 <span style="background-color: LIGHTYELLOW;"> <b> So many people have asked me Why and HOW I’m friends with you after all these years. 
 In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </b> </span>
 <br>
-#### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. 
+#### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
 
 ## I love you, more than 3000. All my best, Aschmut.
 
