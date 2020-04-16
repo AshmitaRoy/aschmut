@@ -66,13 +66,13 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br><br> <br>
 
 <h3 style="background-color:YELLOW"> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
->>These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
+These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 
 ![Surprised Pikachu Face](pikachu.jpeg)
 <br> 
 
-- " If you increase distance enough you find people from Dhaka, I speak from experience " 
-- " Ooh with this toy doctor set I can play the role of your father "
+> " If you increase distance enough you find people from Dhaka, I speak from experience " 
+> " Ooh with this toy doctor set I can play the role of your father "
 - " Jotno kore tuley rakhlam in my cupboard of bekar opinions "
 - " I asked you to be pregnant, but you refused "
 - " We are more intricate than Game of Thrones "
