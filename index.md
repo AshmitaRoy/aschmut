@@ -41,14 +41,13 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-**If you checked yourself out anymore, Target would buy you. The award for the MOST number of not-subtle jawline flexes 
-during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
+**If you checked yourself out anymore, Target would be using you as a payment option. The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
 <br>
 ![jawline](jawline.png)
 
 <br><br><br>
 
-<p style="background-color:RED"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
+<p style="background-color:LIGHTCORAL"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
            
 <br>
 
@@ -75,12 +74,11 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 <br><br> <br>
 
-<h3 style="background-color:YELLOW""> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
-
-**These quotes might seem like they've been subjected to Masaledar Paraphrasing, but NO.**
+<h3 style="background-color:YELLOW"> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
+**These quotes might seem like there's been some Masaledar Paraphrasing, but NO.**
 
 ![Surprised Pikachu Face](pikachu.jpeg)
-//<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
+<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
 <br> 
 
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
@@ -111,6 +109,14 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - LIST WITH PIX
 - Numbered list
 - or can mkae a collage and upload, easier
+- Numbered list
+- or can mkae a collage and upload, easier
+- Numbered list
+- or can mkae a collage and upload, easier
+- Numbered list
+- or can mkae a collage and upload, easier
+- Numbered list
+- or can mkae a collage and upload, easier
 
 <h3 style="background-color:TURQUOISE"> IMPORTANT QUOTES / LIFE LESSONS FROM DANK TADPOLE  </h3> 
 - " NO! "
@@ -122,6 +128,18 @@ I hope with my 'AI Coding Skills' I can make some for you.
 ![money](money.png)
 
 - " Shut up and accept Ayush > Coke Studio names "
+- " Shut up and learn to love potol"
+- " Shut up and stop risking your bous for dumb pranks "
+- " Putting an r/ before any word doesn't make it Reddit"
+- " Shut up and learn to love potol"
+- " Shut up and stop risking your bous for dumb pranks "
+- " Putting an r/ before any word doesn't make it Reddit"
+- " Shut up and learn to love potol"
+- " Shut up and stop risking your bous for dumb pranks "
+- " Putting an r/ before any word doesn't make it Reddit"
+- " Shut up and learn to love potol"
+- " Shut up and stop risking your bous for dumb pranks "
+- " Putting an r/ before any word doesn't make it Reddit"
 - " Shut up and learn to love potol"
 - " Shut up and stop risking your bous for dumb pranks "
 - " Putting an r/ before any word doesn't make it Reddit"
@@ -155,15 +173,17 @@ I hope with my 'AI Coding Skills' I can make some for you.
 
 ![time](time2.png)
 
-### Squishie maxx from Dank Tadpole to her Paul Pew Pew
+### Lots of squishy hugs maxx from bete Dank Tadpole to her Paul Pew Pew
 ![squish](squish.png)
 
 #### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
 ## I love you, more than 3000.
 # All my best, Aschmut.
 
+<h3 style="background-color:YELLOW"> Shameless Instagram Promotion  </h3> 
+Instagram Clout for Proximity Crush : [pc_ig](https://www.instagram.com/prithvi2804/)
+Instagram Clout for Creator of this Webpage at : [ash_ig](https://www.instagram.com/ashmitaroyal/)
 Crossword [Crossword_Page?](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble viewing this webpage? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](ashmitaroy@icloud.com) and we’ll help you sort it out.
