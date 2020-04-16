@@ -22,30 +22,30 @@ What is Prithvi?
 
 ### POEM 
 
-<span style="color: MEDIUMSLATEBLUE;"> Blah testing text colour
 <ul style="list-style-type:none;">
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
 </ul>
 
-- Blah
-- Blah 
-- Blah
-- Blah
-- Blah
-- Blah 
-
 **The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...**
+<br>
 ![jawline](jawline.png)
-`
-`
 
+<br><br>
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 `
 `
@@ -66,24 +66,18 @@ I hope with my 'AI Coding Skills' I can make this for you.
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 
-<div class="row">
-  <div class="column">
-    <img src="maxresdefault (1).jpg" style="width:50%">
-    <img src="japensefuturecafe956hp.0.jpg" style="width:50%">
-  </div>
-</div>
+
+<br><br> 
 
 
-### LIFE-CHANGING NO-CONTEXT QUOTES BY PRITHVIRAJ CHOUDHURY
-
+### LIFE-CHANGING NO-CONTEXT QUOTES BY PC
 **These quote might seem like they've been subjected to Masaledar Paraphrasing, but NO "
 
 <img src="pikachu.jpeg" width="300" height="200" />
 ![Surprised Pikachu Face](pikachu.jpeg)
+<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.4;filter:alpha(opacity=40);"/>
 
-<span style="color: MEDIUMSLATEBLUE;">
-<ul>
-<li> " If you increase distance enough you find people from Dhaka, I speak from experience " </li>
+<span style="color: MEDIUMSLATEBLUE;"> <ul> <li> " If you increase distance enough you find people from Dhaka, I speak from experience " </li>
 <li>  " Ooh with this toy doctor set I can play the role of your father " </li>
 <li> " Jotno kore tuley rakhlam in my cupboard of bekar opinions " </li>
 <li> Blah </li>
@@ -113,13 +107,14 @@ I hope with my 'AI Coding Skills' I can make this for you.
 - " Doing the Dishes "
 - " Khali bari chai "
 - " Spaghetti "
-- <span style="color: salmon;"> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </span>
+- <span style="color: darksalmon;"> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </span>
 
 
-### THANK YOU FOR HAVING PLAYED MULTIPLE ROLES IN MY LIFE
+### THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE
+"Everyone is everyone's everything"
+LIST WITH PIX
+Numbered list
 
-
-### Header 3
 
 `code text testing`
 [Link](url) and ![Image](src)
