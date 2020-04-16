@@ -25,12 +25,12 @@
 <h3 style="background-color:LIGHTGREEN"> POEM ( not sanitiser poetry thankfully ) </h3> 
 
 <ul style="list-style-type:none;"> <b>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span> 
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> To Prithvi-Raja mere Khawaja </li> </span> 
+<span style="color: MEDIUMSEAGREEN;"> <li> Don't say "Done" to Dil Mein Samaaja </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> Shamelessitis induced ei flirtemia-r kichhu kor </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Noyto sudoku commit korbe bor </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> From Naki to Beeping </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Can you stop being the favoured Jamai Manush </li> </span> 
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
@@ -174,13 +174,13 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 #### After all these years? Olvez.
 ### I love you, more than 3000. All my best, Aschmut.
 
-</br> <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
+<br> <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
 <br>
 <br>
 
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
-<h5 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
+<h5 style="background-color:PINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush :** 
 > [Click here to check out prithvi2804's Gram Aesthetic](https://www.instagram.com/prithvi2804/)
