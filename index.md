@@ -15,15 +15,26 @@
 <br><br>
 
 <style>
-div.blue pre { background-color:STEELBLUE; }
-div.blue { background-color:LIGHTSEAGREEN; }
+div.lsgreen { background-color:LIGHTSEAGREEN; }
 </style>
 
-<h3 style="background-color:LIGHTSEAGREEN;"> <span style="color: DEEPSLATEBLUE;"> What is Prithvi? WHo is Prithvi? Why is Prithvi </span> </h3>
+<style>
+div.palegreen { background-color:PALEGREEN; }
+</style>
+
+<style>
+div.cyan { background-color:LIGHTCYAN; }
+</style>
+
+<style>
+div.blue { background-color:SKYBLUE; }
+</style>
+
+<h3 style="background-color:LIGHTSEAGREEN; color:DEEPSLATEBLUE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3>
 <br>
 
-<div class = "blue">
- <h3> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
+<div class = "palegreen">
+ <h3 style="color:DEEPSLATEBLUE"> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
 </div>
 
 ![worldart](world.png)
