@@ -2,16 +2,16 @@
 <h1 style="background-color: YELLOW"> to P, with love on his 23rd. </h1>
 
 ![BabyPhoto](baby (1).jpg)
-
 <br>
 <span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin </b> </span>
 <br><br> 
 ![happy](happy.png)
 
-<span style="color: STEELBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
 <br>
 
-<h3 style="background-color: TURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
+<br>
+<h3 style="background-color: PALETURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
 ![worldart](world.png)
 
@@ -40,7 +40,7 @@ photographs, video calls and even while passing by anything remotely reflective 
 ![jawline](jawline.png)
 <br>
 
-<p style="background-color:CORAL"><b><br> This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
+<p style="background-color:CORAL"><b><br> This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.<br></b></p>
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -66,7 +66,7 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br><br> <br>
 
 <h3 style="background-color:YELLOW"> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
-These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
+**These quotes might seem like there's been some Masaledar Paraphrasing, but NO.**
 
 ![Surprised Pikachu Face](pikachu.jpeg)
 <br> 
@@ -98,7 +98,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 
 <br>
 <br>
-<h3 style="background-color:DARKTURQUOISE"> Here we observe a Prithvi in his natural habitat </h3> 
+<h3 style="background-color:POWDERBLUE"> Here we observe a Prithvi in his natural habitat </h3> 
 <img src="g (1).gif" width="120" height="213" /> <img src="g (2).gif" width="120" height="213" /> <img src="g (3).gif" width="120" height="213" /> <img src="g (4).gif" width="120" height="213" /> <img src="g (5).gif" width="120" height="213" />
 <br>
 <br>
