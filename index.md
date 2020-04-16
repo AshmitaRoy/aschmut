@@ -39,11 +39,11 @@ div.blue { background-color:SKYBLUE; }
 
 <br><br>
 
-<h3 style="background-color:LIGHTSEAGREEN,color:DEEPSLATEBLUE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
+<h3 style="background-color:LIGHTSEAGREEN"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
 
 <div class = "palegreen">
- <h3 style="color:DEEPSLATEBLUE;"> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
+ <h3 style="color:DEEPSLATEBLUE;"> What is Prithvi? Who is Prithvi? Why is Prithvi? scrap </h3>
 </div>
 
 <div class = "palegreen">
@@ -55,7 +55,8 @@ div.blue { background-color:SKYBLUE; }
 
 ### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
 
-<ol> <b>
+<ol>
+ <b>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
@@ -85,7 +86,7 @@ div.blue { background-color:SKYBLUE; }
  
 <br><br><br>
 
-<h3 style="background-color:AQUA,color:DEEPSLATEBLUE"> POEM ( not sanitiser poetry thankfully ) </h3> 
+<h3 style="background-color:MINTCREAM"> POEM ( not sanitiser poetry thankfully ) </h3> 
 <br> 
 
 <ul style="list-style-type:none;"> <b>
