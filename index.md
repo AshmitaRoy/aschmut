@@ -9,20 +9,47 @@
 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammal in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is a 
-</span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammal in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is a 
+ </b> </span>
 
-What is Prithvi?
+<br><br>
+
+## What is Prithvi? WHo is Prithvi? Why is Prithvi?
 ![worldart](world.png)
 
+<br><br>
+
 ### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
+
+<ul style="list-style-type:none;"> <b>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
+ </b>
+</ul> 
+
 <span style="color: MEDIUMSEAGREEN;"> <b> He might be a lil weird sometimes, but he's the best kind of weird. </b> </span>
-`
+<br>
 ![weird](weird.png)
+ 
+<br><br><br>
 
 ### POEM 
 
-<ul style="list-style-type:none;">
+<ul style="list-style-type:none;"> <b>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
@@ -39,13 +66,14 @@ What is Prithvi?
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah </li> </span>
-</ul>
+ </b>
+</ul> 
 
 **The award for the MOST number of least subtle jawline flexes during selfies, photographs, video calls goes to...**
 <br>
 ![jawline](jawline.png)
 
-<br><br>
+<br><br><br>
 **This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.**
 `
 `
@@ -65,28 +93,15 @@ I hope with my 'AI Coding Skills' I can make this for you.
   *No hologram chok chok though hahahaha*
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
-
-
-<br><br> 
+<br><br> <br>
 
 
 ### LIFE-CHANGING NO-CONTEXT QUOTES BY PC
 **These quote might seem like they've been subjected to Masaledar Paraphrasing, but NO "
 
-<img src="pikachu.jpeg" width="300" height="200" />
+<img src="pikachu.jpeg" width="400" height="150" />
 ![Surprised Pikachu Face](pikachu.jpeg)
-<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.4;filter:alpha(opacity=40);"/>
-
-<span style="color: MEDIUMSLATEBLUE;"> <ul> <li> " If you increase distance enough you find people from Dhaka, I speak from experience " </li>
-<li>  " Ooh with this toy doctor set I can play the role of your father " </li>
-<li> " Jotno kore tuley rakhlam in my cupboard of bekar opinions " </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-<li> Blah </li>
-</ul>
-</span>
+<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
   
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
@@ -107,7 +122,7 @@ I hope with my 'AI Coding Skills' I can make this for you.
 - " Doing the Dishes "
 - " Khali bari chai "
 - " Spaghetti "
-- <span style="color: darksalmon;"> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </span>
+- <span style="color: darksalmon;"> <b> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </b> </span>
 
 
 ### THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE
@@ -115,14 +130,6 @@ I hope with my 'AI Coding Skills' I can make this for you.
 LIST WITH PIX
 Numbered list
 
-
-`code text testing`
-[Link](url) and ![Image](src)
-
-### The Ossu-Paul List
-- Booger picking
-- Beeg fight 
-- Random aunty taking a seeeep
 
 ### IMPORTANT QUOTES / LIFE LESSONS FROM ASHMITA ROY 
 
@@ -172,7 +179,9 @@ Numbered list
 ### Squishie maxx from Dank Tadpole to her Paul Pew Pew
 ![squish](squish.png)
 
-#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. I love you more than 3000.
+#### I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.
+## I love you, more than 3000.
+# All my best, Aschmut.
 
 Crossword [Crossword_Page?](https://guides.github.com/features/mastering-markdown/).
 
