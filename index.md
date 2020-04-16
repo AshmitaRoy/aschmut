@@ -1,37 +1,22 @@
 
-<style>
-div.mint { background-color:BLANCHEDALMOND; }
-</style>
-
-
 # to P, with love on his 23rd.
 
 ## Welcome to Prithviraj Choudhury's Birthday
 
 ![BabyPhoto](baby (1).jpg)
 
-<div class = "mint">
 <span style="color: DEEPSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
-</div>
 
 ![happy](happy.png)
 
-<div class = "mint">
- <span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al 
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al 
  </b> </span>
-</div>
 
 <br><br>
 
 <h3 style="background-color:LIGHTSEAGREEN"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
 
-<div class = "palegreen">
- <h3 style="color:DEEPSLATEBLUE;"> What is Prithvi? Who is Prithvi? Why is Prithvi? scrap </h3>
-</div>
-
-<div class = "palegreen">
-</div>
 
 ![worldart](world.png)
 
