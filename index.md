@@ -1,5 +1,4 @@
-<body style="background-color:yellow;">
-  
+ 
  # to P, with love.
 
 ## Welcome to Prithviraj Choudhury's Birthday
