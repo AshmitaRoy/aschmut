@@ -173,9 +173,8 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 >>All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. 
 #### After all these years? Olvez.
 ### I love you, more than 3000. All my best, Aschmut.
-<br>
 
-<h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
+</br> <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
 <br>
 <br>
@@ -183,11 +182,11 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
 <h5 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
-- **Instagram Clout for Proximity Crush : ** 
+- **Instagram Clout for Proximity Crush :** 
 > [Click here to check out prithvi2804's Gram Aesthetic](https://www.instagram.com/prithvi2804/)
 
 - **Instagram Clout for Creator of this Webpage at :** 
-> [Click here to check out ashmitaroyal's much cuter Gram Aesthetic](https://www.instagram.com/ashmitaroyal/)
+> [Click here to check out my MUCH cuter Gram Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
 <br> <br>
 
