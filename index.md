@@ -40,7 +40,7 @@ photographs, video calls and even while passing by anything remotely reflective 
 ![jawline](jawline.png)
 <br>
 
-<p style="background-color:CORAL"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
+<p style="background-color:CORAL"><b><br> This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -126,16 +126,14 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 - " 🐱 gets DMs "
 - " Shubho Bijoya "
 - " Tor nei tor ___ o nei"
-- " Shut up and take my money" 
-( and stop calling it black money, that's sexist)
-![money](money.png)
-
+- " Shut up and take my money"  ( and stop calling it black money, that's sexist) ![money](money.png)
 - " Shut up and learn to love potol"
 - " Shut up and accept Ayush > Coke Studio names "
 - " Shut up and stop risking your bous for dumb pranks "
 - " Putting an r/ before any word doesn't make it Reddit, you naive pleb"
 - " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
 - " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
+
 <br>
 <br>
 
