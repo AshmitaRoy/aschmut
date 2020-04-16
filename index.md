@@ -1,5 +1,5 @@
  
- # to P, with love.
+# to P, with love on his 23rd.
 
 ## Welcome to Prithviraj Choudhury's Birthday
 
@@ -14,7 +14,15 @@
 
 <br><br>
 
-## What is Prithvi? WHo is Prithvi? Why is Prithvi?
+<style>
+div.blue pre { background-color:STEELBLUE; }
+div.blue pre.r { background-color:LIGHTSEAGREEN; }
+</style>
+
+<div class = "blue">
+ <h3> What is Prithvi? WHo is Prithvi? Why is Prithvi? </h3>
+</div>
+
 ![worldart](world.png)
 
 <br><br>
