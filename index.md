@@ -13,7 +13,7 @@
 
 <br><br>
 
-<h3 style="background-color:LIGHTSEAGREEN"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
+<h3 style="background-color: TURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
 ![worldart](world.png)
 
@@ -41,17 +41,14 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls goes to...**
+**If you checked yourself out anymore, Target would buy you. The award for the MOST number of not-subtle jawline flexes 
+during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
 <br>
 ![jawline](jawline.png)
 
 <br><br><br>
 
- <p style="background-color:RED>
-           <b>
-           This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.
-           </b>
- </p>
+<p style="background-color:RED"><b>This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.</b></p>
            
 <br>
 
@@ -65,9 +62,11 @@ The award for the MOST number of not-subtle jawline flexes during selfies, photo
 <br>
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
-I hope with my 'AI Coding Skills' I can make this for you.
-```
+I hope with my 'AI Coding Skills' I can make some for you.
 
+#end markdown code
+```
+<br>
 **Holographic menus and holograms representing (German?) dessert for your eatery.**
 <br>
 *No hologram chok chok because mass lobotomies are exp and black money is limited* 
@@ -76,17 +75,14 @@ I hope with my 'AI Coding Skills' I can make this for you.
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 <br><br> <br>
 
-
-<div class = "palegreen">
- <h4> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h4>
-</div>
+<h3 style="background-color:YELLOW""> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
 
 **These quotes might seem like they've been subjected to Masaledar Paraphrasing, but NO.**
 
-<img src="pikachu.jpeg" width="400" height="150" />
 ![Surprised Pikachu Face](pikachu.jpeg)
-<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
-  
+//<img src="pikachu.jpeg" alt="pikachu" style="opacity:0.7;filter:alpha(opacity=70);"/>
+<br> 
+
 - " If you increase distance enough you find people from Dhaka, I speak from experience " 
 - " Ooh with this toy doctor set I can play the role of your father "
 - " Jotno kore tuley rakhlam in my cupboard of bekar opinions "
@@ -106,21 +102,20 @@ I hope with my 'AI Coding Skills' I can make this for you.
 - " Doing the Dishes "
 - " Khali bari chai "
 - " Spaghetti "
-- <span style="color: darksalmon;"> <b> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </b> </span>
+- " Whats BDE "
+- <span style="color: CRIMSON;"> <b> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </b> </span>
 
 
-### THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE
-"Everyone is everyone's everything"
-LIST WITH PIX
-Numbered list
+<h3 style="background-color:TURQUOISE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
+**"Everyone is everyone's everything"**
+- LIST WITH PIX
+- Numbered list
+- or can mkae a collage and upload, easier
 
-
-### IMPORTANT QUOTES / LIFE LESSONS FROM ASHMITA ROY 
-
+<h3 style="background-color:TURQUOISE"> IMPORTANT QUOTES / LIFE LESSONS FROM DANK TADPOLE  </h3> 
 - " NO! "
 - " Oh fuck "
 - " Shubho Bijoya "
-- " Imma dank tadpole "
 - " Tor nei tor ___ o nei"
 - " Shut up and take my money" 
 ( and stop calling it black money, that's sexist)
