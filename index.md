@@ -126,13 +126,13 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 - " 🐱 gets DMs "
 - " Shubho Bijoya "
 - " Tor nei tor ___ o nei"
-- " Shut up and take my money"  ( and stop calling it black money, that's sexist) ![money](money.png)
+- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
+- " Putting an r/ before any word doesn't make it Reddit, you naive pleb"
+- " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
 - " Shut up and learn to love potol"
 - " Shut up and accept Ayush > Coke Studio names "
 - " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit, you naive pleb"
-- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
-- " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
+- " Shut up and take my money"  ( and stop calling it black money, that's sexist) ![money](money.png)
 
 <br>
 <br>
@@ -152,9 +152,8 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 ![time](time.png)
 
 
-#### With lots of love from German Dessert
+<h3 style="background-color:YELLOW"> From German Dessert  </h3> 
 **(whose evolution in your life has been as follows)** 
-
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
 - to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
@@ -168,6 +167,11 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 <span style="background-color: LEMONCHIFFON;"> <b> So many people have asked me Why and HOW I’m friends with you after all these years. 
 In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </b> </span>
 <br>
+`So many people have asked me Why and HOW I’m friends with you after all these years. 
+In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.`
+
+>So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.`
+
 #### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
 ### I love you, more than 3000. All my best, Aschmut.
 <br>
