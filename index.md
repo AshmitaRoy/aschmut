@@ -126,8 +126,8 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 - " 🐱 gets DMs "
 - " Shubho Bijoya "
 - " Tor nei tor ___ o nei"
-- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
-- " Putting an r/ before any word doesn't make it Reddit, you naive pleb"
+- " Basic Betch + Acid = Salt & H2O / Baby Nunu & Panu " 
+- " Putting an r/ before any word doesn't make it Reddit"
 - " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
 - " Shut up and learn to love potol"
 - " Shut up and accept Ayush > Coke Studio names "
@@ -156,7 +156,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 **(whose evolution in your life has been as follows)** 
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
 - to becoming your **German Dessert Chikorita** despite the worst deflection tactic of all time (PUCK-PUCK-PUCK)
-- to being a **Sweet summers child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
+- to being a **Sweet Summer Child** who went AWOL and resurfaced via email MONTHS later (I'm REALLY sorry)
 - to being **Bara Dank Tadpole** with her proximity crush after the prissybetch prank
 - to my final evolution into a **CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe**
 
@@ -164,17 +164,13 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 <br><br>
 
 <h3 style="background-color:GOLD"> Emosh 2019 Letter </h3> 
-<span style="background-color: LEMONCHIFFON;"> <b> So many people have asked me Why and HOW I’m friends with you after all these years. 
-In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </b> </span>
+<span style="background-color: LEMONCHIFFON;"> So many people have asked me Why and HOW I’m friends with you after all these years. 
+In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </span>
 <br>
-`So many people have asked me Why and HOW I’m friends with you after all these years. 
-In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.`
 
->So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.`
-
-#### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
+>So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.
+>>All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
 ### I love you, more than 3000. All my best, Aschmut.
-<br>
 <br>
 
 <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
@@ -186,10 +182,10 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 <h5 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush : ** 
-> [prithvi2804's IG Aesthetic](https://www.instagram.com/prithvi2804/)
+> [Click here to check out prithvi2804's Gram Aesthetic](https://www.instagram.com/prithvi2804/)
 
 - **Instagram Clout for Creator of this Webpage at :** 
-> [ashmitaroyal's Cuter IG Aesthetic](https://www.instagram.com/ashmitaroyal/)
+> [Click here to check out ashmitaroyal's much cuter Gram Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
 <br> <br>
 
