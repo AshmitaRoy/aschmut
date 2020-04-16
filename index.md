@@ -1,24 +1,8 @@
- 
 
 <style>
-div.mint { background-color:MINTCREAM; }
+div.mint { background-color:BLANCHEDALMOND; }
 </style>
 
-<style>
-div.lsgreen { background-color:LIGHTSEAGREEN; }
-</style>
-
-<style>
-div.palegreen { background-color:PALEGREEN; }
-</style>
-
-<style>
-div.cyan { background-color:LIGHTCYAN; }
-</style>
-
-<style>
-div.blue { background-color:SKYBLUE; }
-</style>
 
 # to P, with love on his 23rd.
 
@@ -27,7 +11,7 @@ div.blue { background-color:SKYBLUE; }
 ![BabyPhoto](baby (1).jpg)
 
 <div class = "mint">
-<span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
+<span style="color: DEEPSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
 </div>
 
 ![happy](happy.png)
@@ -54,31 +38,9 @@ div.blue { background-color:SKYBLUE; }
 <br><br>
 
 ### HERE'S TO ALL THE ROLES YOU PLAY IN MY LIFE
-
-<ol>
- <b>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
- </b>
-</ol> 
+-0bah
+-sjndd
+-ddjvkvfd
 
 **He might be a lil weird sometimes, but he's the best kind of weird.**
 <br><br>
@@ -87,6 +49,7 @@ div.blue { background-color:SKYBLUE; }
 <br><br><br>
 
 <h3 style="background-color:MINTCREAM"> POEM ( not sanitiser poetry thankfully ) </h3> 
+
 <br> 
 
 <ul style="list-style-type:none;"> <b>
@@ -119,13 +82,11 @@ The award for the MOST number of not-subtle jawline flexes during selfies, photo
 
 <br><br><br>
 
-<font face="verdana" color="white">
  <p style="background-color:RED>
            <b>
            This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.
            </b>
  </p>
- </font>
            
 <br>
 
@@ -144,7 +105,8 @@ I hope with my 'AI Coding Skills' I can make this for you.
 
 **Holographic menus and holograms representing (German?) dessert for your eatery.**
 <br>
-*No hologram chok chok because mass lobotomies are exp and black money is limited*
+*No hologram chok chok because mass lobotomies are exp and black money is limited* 
+<br>
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
 <br><br> <br>
