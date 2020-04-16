@@ -97,6 +97,12 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 - <span style="color: CRIMSON;"> <b> "No matter how choppy the ocean gets, we shall always find our way back home. We shall moor in the safety of our friendship and the love we share. I hope we can always be each others' anchor " *(the most r/wholesome words ever written to me, thank you )* </b> </span>
 
 <br>
+<br>
+<h3 style="background-color:DARKTURQUOISE"> Here we observe a Prithvi in his natural habitat </h3> 
+<img src="g (1).gif" width="90" height="160" /><img src="g (2).gif" width="90" height="160" /><img src="g (3).gif" width="90" height="160" /><img src="g (4).gif" width="90" height="160" /><img src="g (5).gif" width="90" height="160" />
+<br>
+<br>
+
 <h3 style="background-color:CHARTREUSE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
 **"Everyone is everyone's everything"**
 - LIST WITH PIX
@@ -113,6 +119,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 
 <br>
 <h3 style="background-color:MEDIUMAQUAMARINE"> IMPORTANT QUOTES & LIFE LESSONS FROM DANK TADPOLE  </h3> 
+>
 - " NO! "
 - " R00d! "
 - " Oh fuck "
@@ -130,6 +137,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 - " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
 - " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
 <br>
+<br>
 
 <h3 style="background-color:YELLOW"> CROSSWORD ABOUT US  </h3> 
 <div style="margin:auto; display:flex; flex-direction:column; height:500px; max-width:500px">
@@ -141,7 +149,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 
 <h3 style="background-color:YELLOW"> OLD MEMS  </h3> 
 
-**Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
+**Time Capsule-worthy foetus photos of Aschmut and her Preatvi**
 
 ![time](time.png)
 
@@ -169,15 +177,17 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 
 <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
-<br> <br>
+<br>
+<br>
 
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
 <h5 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush : ** 
->> [prithvi2804's IG Aesthetic](https://www.instagram.com/prithvi2804/)
+> [prithvi2804's IG Aesthetic](https://www.instagram.com/prithvi2804/)
+
 - **Instagram Clout for Creator of this Webpage at :** 
->> [ashmitaroyal's Cuter IG Aesthetic](https://www.instagram.com/ashmitaroyal/)
+> [ashmitaroyal's Cuter IG Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
 <br> <br>
 
