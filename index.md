@@ -5,11 +5,11 @@
 
 ![BabyPhoto](baby (1).jpg)
 
-<span style="color: DEEPSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin ** </b> </span>
+<span style="color: SEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin </b> </span>
 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
+<span style="color: MEDIUMBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
 
 <br><br>
 
@@ -27,8 +27,8 @@
 - dndcisjkowvr
 - yhopkpteprp
 
-**He might be a lil weird sometimes, but he's the best kind of weird.**
-<br><br>
+**He might be a lil weird sometimes (pix below), but he's the best kind of weird.**
+<br>
 ![weird](weird.png)
  
 <br><br><br>
@@ -38,24 +38,6 @@
 <br> 
 
 <ul style="list-style-type:none;"> <b>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
