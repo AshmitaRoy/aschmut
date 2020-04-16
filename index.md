@@ -99,7 +99,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 <br>
 <br>
 <h3 style="background-color:DARKTURQUOISE"> Here we observe a Prithvi in his natural habitat </h3> 
-<img src="g (1).gif" width="108" height="192" /> <img src="g (2).gif" width="108" height="192" /> <img src="g (3).gif" width="108" height="192" /> <img src="g (4).gif" width="108" height="192" /> <img src="g (5).gif" width="108" height="192" />
+<img src="g (1).gif" width="120" height="213" /> <img src="g (2).gif" width="120" height="213" /> <img src="g (3).gif" width="120" height="213" /> <img src="g (4).gif" width="120" height="213" /> <img src="g (5).gif" width="120" height="213" />
 <br>
 <br>
 
