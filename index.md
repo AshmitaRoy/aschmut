@@ -147,7 +147,7 @@ I hope with my 'AI Coding Skills' I can make some for you.
 
 </span>
 
-### NO CONTEXT INSIDE JOKES 
+### NO CONTEXT INSIDE JOKES / CROSSWORD??
 
 - Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu
 - Raja-r Disha
@@ -155,6 +155,8 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - Emni krli toh??
 - BaJ Tokapi Linux
 - After all these years? Olvez
+
+<br><br>
 
 ## Old Mems
 **Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
@@ -180,10 +182,29 @@ I hope with my 'AI Coding Skills' I can make some for you.
 ## I love you, more than 3000.
 # All my best, Aschmut.
 
-<h3 style="background-color:YELLOW"> Shameless Instagram Promotion  </h3> 
-Instagram Clout for Proximity Crush : [pc_ig](https://www.instagram.com/prithvi2804/)
-Instagram Clout for Creator of this Webpage at : [ash_ig](https://www.instagram.com/ashmitaroyal/)
-Crossword [Crossword_Page?](https://guides.github.com/features/mastering-markdown/).
+<br><br><br>
+
+
+<h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
+
+<h3 style="background-color:DEEPPINK"> Shameless Instagram Promotion  </h3> 
+- **Instagram Clout for Proximity Crush : ** 
+>> [prithvi2804's Instagram Aesthetic](https://www.instagram.com/prithvi2804/)
+- **Instagram Clout for Creator of this Webpage at :** 
+>> [ashmitaroyal's Cuter Instagram Aesthetic](https://www.instagram.com/ashmitaroyal/)
+
+<br>
+
+<h3 style="background-color:"> Shameless Facebook Promotion  </h3> 
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[2]: http://www.facebook.com/ashmitar/
+
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[2]: http://www.facebook.com/prithviraj.choudhury.96/
+
+<br> <br> <br>
 
 ### Support or Contact
-Having trouble viewing this webpage? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](ashmitaroy@icloud.com) and we’ll help you sort it out.
+Having trouble viewing this webpage? 
+Check out the [documentation](https://help.github.com/categories/github-pages-basics/) or email me at
+<a href="mailto:ashmitaroye@icloud.com">ashmitaroye@icloud.com</a> and I’ll help sort it out.
