@@ -71,8 +71,9 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 ![Surprised Pikachu Face](pikachu.jpeg)
 <br> 
 
-> " If you increase distance enough you find people from Dhaka, I speak from experience " 
-> " Ooh with this toy doctor set I can play the role of your father "
+>
+- " If you increase distance enough you find people from Dhaka, I speak from experience " 
+- " Ooh with this toy doctor set I can play the role of your father "
 - " Jotno kore tuley rakhlam in my cupboard of bekar opinions "
 - " I asked you to be pregnant, but you refused "
 - " We are more intricate than Game of Thrones "
@@ -145,7 +146,7 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 ![time](time.png)
 
 
-#### With lots of love from your Chikorita Babe
+#### With lots of love from German Dessert
 **(whose evolution in your life has been as follows)** 
 
 - From being a **"Grammar Nazi sarcastic bhalo meye"** your dada told you about who scrinshutted things for you
@@ -162,16 +163,16 @@ These quotes might seem like there's been some Masaledar Paraphrasing, but NO.
 In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </b> </span>
 <br>
 #### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
-
-## I love you, more than 3000. All my best, Aschmut.
-
+### I love you, more than 3000. All my best, Aschmut.
+<br>
+<br>
 
 <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
-<br>
+<br> <br>
 
 <h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
-<h6 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h6> 
+<h5 style="background-color:HOTPINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush : ** 
 >> [prithvi2804's IG Aesthetic](https://www.instagram.com/prithvi2804/)
