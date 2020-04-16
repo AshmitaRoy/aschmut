@@ -76,18 +76,19 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - " Jotno kore tuley rakhlam in my cupboard of bekar opinions "
 - " I asked you to be pregnant, but you refused "
 - " We are more intricate than Game of Thrones "
+- " 🦋🦋 Thank you for the information 🦋🦋 "
 - " Ya I own you, you're basically my uterus "
 - " Of course I know PEEDIPIE I'm a LAWYER "
 - " AshmitaRoyal and the Gobet of Desire "
-- " I played with that man's monkey "
 - " Listen. " * *cue Aschmut panique* *
+- " I played with that man's monkey "
 - " You're a bad brother, a piglet. "
 - " She stole my dad's Tommy "
 - " You should Twi-harder "
 - " No 🐱 for RJ Sayan "
 - " Nyangto Yaksha Dul "
 - " Neel ghumiye poro "
-- " Ki dinkal thakur "
+- " Ki dinkaal thakur "
 - " Doing the Dishes "
 - " Khali bari chai "
 - " Spaghetti "
@@ -110,9 +111,11 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - or can mkae a collage and upload, easier
 
 <br>
-<h3 style="background-color:TURQUOISE"> IMPORTANT QUOTES & LIFE LESSONS FROM DANK TADPOLE  </h3> 
+<h3 style="background-color:MEDIUMAQUAMARINE"> IMPORTANT QUOTES & LIFE LESSONS FROM DANK TADPOLE  </h3> 
 - " NO! "
+- " R00d! "
 - " Oh fuck "
+- " 🐱 gets DMs "
 - " Shubho Bijoya "
 - " Tor nei tor ___ o nei"
 - " Shut up and take my money" 
@@ -122,24 +125,21 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - " Shut up and learn to love potol"
 - " Shut up and accept Ayush > Coke Studio names "
 - " Shut up and stop risking your bous for dumb pranks "
-- " Putting an r/ before any word doesn't make it Reddit"
-- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu "
-- 
-- " **I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.** "
+- " Putting an r/ before any word doesn't make it Reddit, you naive pleb"
+- " Basic Betch + Acid = Salt & Water, hence Baby Nunu & Baby Panu " 
+- " <span style="color: CRIMSON;"> <b> I know you love to pilfer footage claiming you're the aati but all three of us are the wheels of an auto-rickshaw, we can't function as a whole without even one.</b> </span> "
+<br>
 
-
-</span>
-
-### CROSSWORD??
+<h3 style="background-color:YELLOW"> CROSSWORD ABOUT US  </h3> 
 <div style="margin:auto; display:flex; flex-direction:column; height:500px; max-width:500px">
     <iframe border="0" src="https://crosswordlabs.com/embed/for-prithvi" style="flex:1; width:100%; padding:5px 0px 0 5px; border:3px solid black; "></iframe>
     <a target="_blank" style="align-self:center; font-size:12px; color:black; padding-top:10px; text-decoration:none;text-align:center" href="https://crosswordlabs.com">Crossword Puzzle Maker</a>
 </div>
 
-
 <br><br>
 
-## Old Mems
+<h3 style="background-color:YELLOW"> OLD MEMS  </h3> 
+
 **Time Capsule-worthy foetus Photos of Aschmut and her Preatvi**
 
 ![time](time.png)
@@ -158,7 +158,7 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br><br>
 
 <h3 style="background-color:GOLD"> Emosh 2019 Letter </h3> 
-<span style="background-color: LIGHTYELLOW;"> <b> So many people have asked me Why and HOW I’m friends with you after all these years. 
+<span style="background-color: LEMONCHIFFON;"> <b> So many people have asked me Why and HOW I’m friends with you after all these years. 
 In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time. PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku. </b> </span>
 <br>
 #### All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life. After all these years? Olvez.
