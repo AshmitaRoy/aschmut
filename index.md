@@ -34,13 +34,11 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-**If you checked yourself out anymore, Target would buy you. 
-The award for the MOST number of not-subtle jawline flexes during selfies,
-photographs, video calls and even while passing by anything remotely reflective goes to...**
+######If you checked yourself out anymore, Target would buy you.The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
 ![jawline](jawline.png)
 <br>
 
-<p style="background-color:CORAL"><b><br> This entire webpage is yes, simply a chance for me to flex my Comp Sci major hard.<br></b></p>
+<p style="background-color:CORAL"><b><br> This entire webpage is yes, simply a chance for me to flex my Comp Sci major, hard.</b></p>
 ```markdown
 <span style="color: gray;">
   Of course I HAD to add a
@@ -122,11 +120,17 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 <br>
 
-<h3 style="background-color:CHARTREUSE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
-**"Everyone is everyone's everything"**
-![role1](role.png)
-![role1](role2.png)
+<h3 style="background-color:BISQUE"> OUR SPAGHETTI CONFETTI HAS MY WHOLE HEART </h3> 
+![drawing](sc (2).jpeg)
+<br>
+<br>
 
+<h3 style="background-color:YELLOW"> <br> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
+<h4 style="background-color:CHARTREUSE"> <br> "Everyone is everyone's everything" </h4>
+<br>
+
+![role1](role.png)
+![role1](role3.png)
 <br>
 <br>
 
@@ -172,13 +176,13 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 <br>
 <br>
 
-<h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> 
-<h5 style="background-color:PINK"> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
+<h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3>
+<h5 style="background-color:PINK"> <br> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush :** 
 > [Click here to check out prithvi2804's Gram Aesthetic](https://www.instagram.com/prithvi2804/)
 
-- **Instagram Clout for Creator of this Webpage at :** 
+- **Instagram Clout for the Creator of this Webpage at :** 
 > [Click here to check out my MUCH cuter Gram Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
 <br> <br>
