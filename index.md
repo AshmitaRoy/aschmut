@@ -141,7 +141,8 @@ I hope with my 'AI Coding Skills' I can make some for you.
     <a target="_blank" style="align-self:center; font-size:12px; color:black; padding-top:10px; text-decoration:none;text-align:center" href="https://crosswordlabs.com">Crossword Puzzle Maker</a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 <h3 style="background-color:YELLOW"> OLD MEMS  </h3> 
 
@@ -159,7 +160,8 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - to my final evolution into a **CM-Fearing Potol Eating Plebby Name Lovin' Tor-Baap Sticker Making Raagi Cartoon Babe**
 
 ![time](time2.png)
-<br><br>
+<br>
+<br>
 
 <h3 style="background-color:GOLD"> <br> Emosh 2019 Letter </h3> 
 <span style="background-color: LEMONCHIFFON;"> So many people have asked me Why and HOW I’m friends with you after all these years. 
@@ -172,7 +174,7 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 <br> **I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.**
 #### After all these years? Olvez.
 ### I love you, more than 3000. 
-## All my best, Aschmut.
+### All my best, Aschmut.
 
 <br>
 <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
@@ -188,7 +190,8 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 - **Instagram Clout for the Creator of this Webpage at :** 
 > [Click here to check out my MUCH cuter Gram Aesthetic](https://www.instagram.com/ashmitaroyal/)
 
-<br> <br>
+<br>
+<br>
 
 <h3 style="background-color:PALEGREEN"> Support or Feedback </h3> 
 Having trouble viewing this webpage? 
