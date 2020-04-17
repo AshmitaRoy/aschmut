@@ -126,15 +126,14 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 
 <h3 style="background-color:YELLOW"> <br> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
-<h4 style="background-color:CHARTREUSE"> <br> "Everyone is everyone's everything" </h4>
-<br>
+<h4 style="background-color:MOCCASIN"> "Everyone is everyone's everything" </h4>
 
 ![role1](role.png)
 ![role1](role3.png)
 <br>
 <br>
 
-<h3 style="background-color:YELLOW"> CROSSWORD ABOUT US  </h3> 
+<h3 style="background-color:YELLOW"> CROSSWORD  </h3> 
 <div style="margin:auto; display:flex; flex-direction:column; height:500px; max-width:500px">
     <iframe border="0" src="https://crosswordlabs.com/embed/for-prithvi" style="flex:1; width:100%; padding:5px 0px 0 5px; border:3px solid black; "></iframe>
     <a target="_blank" style="align-self:center; font-size:12px; color:black; padding-top:10px; text-decoration:none;text-align:center" href="https://crosswordlabs.com">Crossword Puzzle Maker</a>
@@ -160,24 +159,25 @@ I hope with my 'AI Coding Skills' I can make some for you.
 ![time](time2.png)
 <br><br>
 
-<h3 style="background-color:GOLD"> Emosh 2019 Letter </h3> 
+<h3 style="background-color:GOLD"> <br> Emosh 2019 Letter </h3> 
 <span style="background-color: LEMONCHIFFON;"> So many people have asked me Why and HOW I’m friends with you after all these years. 
 In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re . </span>
 <br>
 
 >So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is super simple but I guess to an outsider perspective, it isn’t . I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time.
 <br><br> PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.
-<br><br><br> **All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.**
+<br><br> All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. 
+**I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.**
 #### After all these years? Olvez.
 ### I love you, more than 3000. All my best, Aschmut.
 
-<br> <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
+<br>
+<h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
 ![squish](squish.png)
 <br>
 <br>
 
-<h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3>
-<h5 style="background-color:PINK"> <br> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
+<h3 style="background-color:YELLOW"> Shameless Social Media Promotion  </h3> <h5 style="background-color:PINK"> <br> Instagram or it (unnecessarily reporting for sexual harassment) didn't happen. </h5> 
 
 - **Instagram Clout for Proximity Crush :** 
 > [Click here to check out prithvi2804's Gram Aesthetic](https://www.instagram.com/prithvi2804/)
