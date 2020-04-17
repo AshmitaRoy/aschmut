@@ -22,6 +22,8 @@
 <br>
 <br>
 
+<br>
+<br>
 <h3 style="background-color:LIGHTGREEN"> <br> POEM ( not sanitiser poetry thankfully ) </h3> 
 
 <ul style="list-style-type:none;"> <b>
@@ -167,9 +169,10 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 >So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is super simple but I guess to an outsider perspective, it isn’t . I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time.
 <br><br> PS: I beg you to yeet that poem sanitiser and those cringe max wallet notes into the void the mere thought of them makes me want to commit sudoku.
 <br><br> All my love to my literal world, jk you’re still Tokapi, many potols to you from Chikorita. 
-**I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.**
+<br> **I'm lucky to have known you all these years and I can't imagine not having you as a part of my life.**
 #### After all these years? Olvez.
-### I love you, more than 3000. All my best, Aschmut.
+### I love you, more than 3000. 
+## All my best, Aschmut.
 
 <br>
 <h4 style="background-color:PEACHPUFF"> Lots of squishy hugs maxx from bete Dank Tadpole: </h4> 
@@ -187,7 +190,7 @@ In my head, the answer is simple but I guess it isn’t to outsider perspectives
 
 <br> <br>
 
-<h3 style="background-color:YELLOWGREEN"> Support or Feedback </h3> 
+<h3 style="background-color:PALEGREEN"> Support or Feedback </h3> 
 Having trouble viewing this webpage? 
 Check out the [documentation](https://help.github.com/categories/github-pages-basics/) or email me at
 <a href="mailto:ashmitaroye@icloud.com">ashmitaroye@icloud.com</a> and I’ll help sort it out.
