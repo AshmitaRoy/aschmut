@@ -8,7 +8,6 @@
 ![happy](happy.png)
 
 <span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
-<br>
 
 <br>
 <h3 style="background-color: PALETURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
@@ -21,8 +20,9 @@
 <br>
 ![weird](weird.png)
 <br>
+<br>
 
-<h3 style="background-color:LIGHTGREEN"> POEM ( not sanitiser poetry thankfully ) </h3> 
+<h3 style="background-color:LIGHTGREEN"> <br> POEM ( not sanitiser poetry thankfully ) </h3> 
 
 <ul style="list-style-type:none;"> <b>
 <span style="color: MEDIUMSLATEBLUE;"> <li> To Prithvi-Raja mere Khawaja </li> </span> 
@@ -34,7 +34,7 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-######If you checked yourself out anymore, Target would buy you.The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...**
+###### If you checked yourself out anymore, Target would buy you.The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...
 ![jawline](jawline.png)
 <br>
 
