@@ -103,21 +103,6 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 <br>
 
-<h3 style="background-color:CHARTREUSE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
-**"Everyone is everyone's everything"**
-- LIST WITH PIX
-- Numbered list
-- or can mkae a collage and upload, easier
-- Numbered list
-- or can mkae a collage and upload, easier
-- Numbered list
-- or can mkae a collage and upload, easier
-- Numbered list
-- or can mkae a collage and upload, easier
-- Numbered list
-- or can mkae a collage and upload, easier
-
-<br>
 <h3 style="background-color:MEDIUMAQUAMARINE"> IMPORTANT QUOTES & LIFE LESSONS FROM DANK TADPOLE  </h3> 
 >
 - " NO! "
@@ -133,6 +118,14 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - " Shut up and accept Ayush > Coke Studio names "
 - " Shut up and stop risking your bous for dumb pranks "
 - " Shut up and take my money"  ( and stop calling it black money, that's sexist) ![money](money.png)
+
+<br>
+<br>
+
+<h3 style="background-color:CHARTREUSE"> THANK YOU FOR PLAYING MULTIPLE ROLES IN MY LIFE </h3> 
+**"Everyone is everyone's everything"**
+![role1](role.png)
+![role1](role2.png)
 
 <br>
 <br>
