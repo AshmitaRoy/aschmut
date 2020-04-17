@@ -3,8 +3,10 @@
 
 ![BabyPhoto](baby (1).jpg)
 <br>
+
 <span style="color: MEDIUMSEAGREEN;"> <b> 23 years ago this blob came into being, and he brought with him a WORLD of sunshiny happiness and warmth. Even today, he brings that same ooey-gooey love, light and laughter into the lives he touches. Look at that infectious grin </b> </span>
-<br><br> 
+<br>
+<br> 
 ![happy](happy.png)
 
 <span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
@@ -19,7 +21,6 @@
 **He might be a lil weird sometimes (pix below), but he's the best kind of weird.**
 <br>
 ![weird](weird.png)
-<br>
 <br>
 
 <br>
@@ -36,7 +37,8 @@
 <span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
 
-###### If you checked yourself out anymore, Target would buy you.The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...
+###### If you checked yourself out anymore, Target would buy you.
+###### The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...
 ![jawline](jawline.png)
 <br>
 
@@ -49,6 +51,7 @@
   exclaim 'I KNOW LINUX!" at. : </span>
 
 <br>
+
 NO, I don't know how to build holograms but one day,
 for your SUPER POPULAR futuristic cafe, if you need me ;
 I hope with my 'AI Coding Skills' I can make some for you.
@@ -63,10 +66,12 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 
 <img src="maxresdefault (1).jpg" width="300" height="150" /> <img src="japensefuturecafe956hp.0.jpg" width="300" height="150" />
-<br><br> <br>
+<br>
+<br>
+<br>
 
 <h3 style="background-color:YELLOW"> LIFE-CHANGING NO-CONTEXT QUOTES BY PC </h3> 
-**These quotes might seem like there's been some Masaledar Paraphrasing, but NO.**
+**These quotes might seem like there's been some Masaledar Paraphrasing, but 'NO!'**
 
 ![Surprised Pikachu Face](pikachu.jpeg)
 <br> 
@@ -85,6 +90,7 @@ I hope with my 'AI Coding Skills' I can make some for you.
 - " I played with that man's monkey "
 - " You're a bad brother, a piglet. "
 - " She stole my dad's Tommy "
+- "Tui hobi, bou not haathi"
 - " You should Twi-harder "
 - " No 🐱 for RJ Sayan "
 - " Nyangto Yaksha Dul "
