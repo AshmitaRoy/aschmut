@@ -9,7 +9,7 @@
 <br> 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. From being the mediator of inane jhogras, to patiently listening to my rambly long Instagram-aided distracted MAX stories, from being the favourite Jamai Manush (ugh they're basically about to disown me) to making terrible puns about ALL of my Ola drivers, from being a patient, sympathetic venting outlet to being super creative in his culinary and artistic exploits, from remembering the tinist details to having the weirdest, cutest, flirtiest, funniest relationship with his first girlfriend; he's one of the best souls I have ever known. And this isn't 2020 woke tadpole talking, even 11th grade tewshun-scrinshut-Aschmut knew that this person was like no other. </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. There are multiple facets to his wondrous self. From being the mediator of inane yet insanely long jhogras, to patiently listening to rambly long Instagram-aided distracted MAX stories, from being the favourite Jamai Manush (ugh they're basically about to disown me) to making terrible puns about EACH Ola driver's name, from being a patient, sympathetic venting outlet to being super creative in his culinary and artistic exploits, from maturely surviving multiple misdirected potshotty bullets to thinking of the wittiest puns, from having zero lozza to having tons of patience, from reporting people on Instagram out of solidarity to being a closet diehard Potterhead (see I didn't say Twihard even though it rhymed, mayeb YOU need to Twiharder to be nice! #rollercoasterbirthday ) from remembering the tinist details ( AND twenty nicknames per person ) to having the weirdest, cutest, flirtiest, funniest relationship with his first girlfriend; he's one of the best souls I have ever known. And this isn't 2020 woke dank pakiburi talking, even 11th grade tewshun-scrinshut-Aschmut knew that this person was incredibly special. As Prithvi would measure it: from Tollygunge (where even his ancestors didn't venture into) to JP ( the ideal place to live through a zombie attack apparently, please don't ask unless you want the pants bored off of you ) that's the amount of awesome he is, or as 2014 me would say it; Ossum Blossom. </b> </span>
 ####
 
 <br>
@@ -25,9 +25,9 @@
 ![weird](weird.png)
 <br>
 
+
 <br>
-<br>
-<h3 style="background-color:LIGHTGREEN"> <br> POEM ( not sanitiser poetry thankfully ) </h3> 
+<h3 style="background-color:LIGHTGREEN"> POEM ( not sanitiser poetry thankfully ) </h3> 
 
 <ul style="list-style-type:none;"> <b>
 <span style="color: MEDIUMSLATEBLUE;"> <li> To Prithvi-Raja mere Khawaja </li> </span> 
