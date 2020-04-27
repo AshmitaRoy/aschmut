@@ -9,7 +9,7 @@
 <br> 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  actually glimpse some of Vidyut Jammwal's abs in him too. He might be sniffing a droplet of Skippy Peanut Butter for breakfast but he is al  </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. From being the mediator of inane jhogras, to patiently listening to my rambly long Instagram-aided distracted MAX stories, from being the favourite Jamai Manush (ugh they're basically about to disown me) to making terrible puns about ALL of my Ola drivers, from being a great patient but sympathetic venting outlet to being super creative in his culinary and artistic exploits, from remembering the tinist details to having the weirdest,cutest, flirtiest, funniest relationship with his first girlfriend; he's one of the best souls I have ever known. And this isn't 2020 woke tadpole talking, even 11th grade tewshun-scrinshut-Aschmut knew that this person was like no other. </b> </span>
 
 <br>
 <h3 style="background-color: PALETURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
@@ -32,13 +32,46 @@
 <span style="color: MEDIUMSEAGREEN;"> <li> Don't say "Done" to Dil Mein Samaaja </li> </span> 
 <span style="color: MEDIUMSLATEBLUE;"> <li> Shamelessitis induced ei flirtemia-r kichhu kor </li> </span>
 <span style="color: MEDIUMSEAGREEN;"> <li> Noyto sudoku commit korbe bor </li> </span> 
-<span style="color: MEDIUMSLATEBLUE;"> <li> From Naki to Beeping </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Can you stop being the favoured Jamai Manush </li> </span> 
-<span style="color: MEDIUMSLATEBLUE;"> <li> Blah Blah Blah </li> </span>
-<span style="color: MEDIUMSEAGREEN;"> <li> Blah Blah Blah Blah Blah </li> </span> </b> </ul> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> You're my whole world, in my life you're the only Prithvi </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Hmm kono replacement AMI toh khuji ni </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Nyaka 11th grade Aschmut called you Preee </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> From germy and koi maachh hands you flee </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> But she can't get enough of your personality </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> So sunny, kind, warm and infectiously happy </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> Your bete dank tadpole misses your brownie </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> She also misses hiding you in her room from Chopipi </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> About your many virtues this poem was supposed to be </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> But now it's just being used to spill the tea </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> Shikhe ney how to pronounce Thamma, Ashmita and Tishadidi </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> It’s  Awshmita , ঠamma and তishadidi </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Not Ush-meeter , থamma or TEA-shadeedee  </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Ground floor to 2nd floor Shubho Bijoya boley chellamelli </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> Eirom bhabe tor baap (super emb sticker pack ref) ke ami scandalise korechi </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Will you never let me forget that eki </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> Please stop referring to my Papa as Bee </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> You don't  now how to go dutch, you act as if you owe me a fee </li> </span> 
+<span style="color: MEDIUMSLATEBLUE;"> <li> How dare you take 2 business days to brutally finish me </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Instead you should be finishing a possible PhD(?) </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> I've taught you the best acronyms and fake words you must agreeeeee </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> But you also use them very well I'm so proud bb </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> I owe you one non-complainy shoe shopping spree </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> You're the glue that binds us three </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Even though every 30 minutes you think you need to pee </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Hoppi and Uber e korechilam je NSFW koto ki </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> I'm sorry I slept on the pavement of HB-158 Sector 3 </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> You are the most wholesome Krishno Sri </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> And stop cringing about it, a very cute mem was Bakery </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> I'm sorry my drunk friends called you a G-Gon-ess </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> And let me also take this chance to confess </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Not just Scrabble, I also lost to the Paiyya at chess </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Baljeet doesnt even have enough shame pordas </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Bengal's intelligentsia will put me behind bars </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Onek ramble korlam about everything shotti </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> Lots of 'love, hugs and brainolia' to thee </li> </span>
+<span style="color: MEDIUMSEAGREEN;"> <li> Happy Birthday Prithvi </li> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <li> And whewww you can't keep this poem on a bottle in 134 JP! </li> </span> </b> </ul> 
 
-###### If you checked yourself out anymore, Target would buy you.
-###### The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...
+If you checked yourself out anymore, Target would buy you.The award for the MOST number of not-subtle jawline flexes during selfies, photographs, video calls and even while passing by anything remotely reflective goes to...
 ![jawline](jawline.png)
 <br>
 
