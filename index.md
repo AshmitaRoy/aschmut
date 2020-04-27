@@ -9,8 +9,10 @@
 <br> 
 ![happy](happy.png)
 
-<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. From being the mediator of inane jhogras, to patiently listening to my rambly long Instagram-aided distracted MAX stories, from being the favourite Jamai Manush (ugh they're basically about to disown me) to making terrible puns about ALL of my Ola drivers, from being a great patient but sympathetic venting outlet to being super creative in his culinary and artistic exploits, from remembering the tinist details to having the weirdest,cutest, flirtiest, funniest relationship with his first girlfriend; he's one of the best souls I have ever known. And this isn't 2020 woke tadpole talking, even 11th grade tewshun-scrinshut-Aschmut knew that this person was like no other. </b> </span>
+<span style="color: MEDIUMSLATEBLUE;"> <b> He doesn't look a day over 21 but you can see the striking resemblance to Antoni Porowski, and, if you focus your third eye hard enough you can actually glimpse some of Vidyut Jammwal's abs in him too. From being the mediator of inane jhogras, to patiently listening to my rambly long Instagram-aided distracted MAX stories, from being the favourite Jamai Manush (ugh they're basically about to disown me) to making terrible puns about ALL of my Ola drivers, from being a patient, sympathetic venting outlet to being super creative in his culinary and artistic exploits, from remembering the tinist details to having the weirdest, cutest, flirtiest, funniest relationship with his first girlfriend; he's one of the best souls I have ever known. And this isn't 2020 woke tadpole talking, even 11th grade tewshun-scrinshut-Aschmut knew that this person was like no other. </b> </span>
+####
 
+<br>
 <br>
 <h3 style="background-color: PALETURQUOISE"> What is Prithvi? Who is Prithvi? Why is Prithvi? </h3> 
 <br>
@@ -203,8 +205,7 @@ I hope with my 'AI Coding Skills' I can make some for you.
 <br>
 
 <h3 style="background-color:GOLD"> <br> Emosh 2019 Letter </h3> 
-<span style="background-color: LEMONCHIFFON;"> So many people have asked me Why and HOW I’m friends with you after all these years. 
-In my head, the answer is simple but I guess it isn’t to outsider perspectives. I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re . </span>
+<span style="background-color: LEMONCHIFFON;"> I know you have the handwritten version of this but here's a digital copy </span>
 <br>
 
 >So many people have asked me Why and HOW I’m friends with you after all these years. In my head, the answer is super simple but I guess to an outsider perspective, it isn’t . I used to say “Oh it’s because Prithvi is just the nicest person ever” but it’s not just that. You’re not just nice, you’re such a kind, dependable, intelligent, considerate, generous, patient, sensitive, starving, good human being and I’m beyond lucky to have you in my life, no ragretz about anything. Everything is just easy and comfy with you and I hope we never stop with the witty bants, the teleprithvi, the scandalous inside jokes, the millennial lingo tewshun, the random TMI-ness and just being there for each other through everything. If the strength of the love and friendship we share can help you overlook the SUPREME betrayal of me eating the occasional egg biryani or potol bhaja, we’re going to be annoying each other for a long long time.
